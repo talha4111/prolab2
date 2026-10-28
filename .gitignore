@@ -1,0 +1,29 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+undo/
+
+# Gemini CLI & AI
+.gemini/
+.gemini_history
+.geminiignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+# MarketSalesKocaeli.csv # Uncomment if you want to ignore the data file
